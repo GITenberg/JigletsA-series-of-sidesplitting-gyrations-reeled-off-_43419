@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42197'
     url: http://www.gutenberg.org/2009/agents/42197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43419#JigletsA-series-of-sidesplitting-gyrations-reeled-off-
 gutenberg_issued: '2013-08-08'
 gutenberg_type: Text
 identifiers:
